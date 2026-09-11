@@ -80,11 +80,15 @@ const laava = {
 
 <img src="./assets/laawa-preview.svg" width="100%" alt="LaaWa product showcase"/>
 
-### LaaWa
+### **LaaWa**
 
-**A modern messaging experience engineered as a full product system.**
+**AI-powered business command center built around WhatsApp conversations, lead capture, appointments and automations.**
 
-`REAL-TIME` · `MESSAGING` · `PRODUCT ENGINEERING` · `AI`
+`NEXT.JS` · `TYPESCRIPT` · `POSTGRESQL` · `GEMINI` · `WHATSAPP` · `AUTOMATION`
+
+<br><br>
+
+[**→ Explore LaaWa**](https://github.com/laavastudios/LaaWa)
 
 </div>
 
@@ -150,6 +154,7 @@ Clients, infrastructure, experiments, automation and AI tooling built around one
 
 ### Infrastructure
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-0b0b0b?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b0b0b?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Git](https://img.shields.io/badge/Git-0b0b0b?style=for-the-badge&logo=git&logoColor=F05032)
