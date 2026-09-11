@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070707,45:160806,72:7f1d1d,100:ff6b00&height=250&section=header&text=LAAVA%20STUDIOS&fontSize=52&fontColor=ffffff&fontAlignY=43&desc=AI%20ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20SYSTEMS&descSize=15&descAlignY=64&descColor=ffd7b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,38:140503,68:6b1608,100:ff6b00&height=250&section=header&text=LAAVA%20STUDIOS&fontSize=52&fontColor=ffffff&fontAlignY=43&desc=AI%20ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20SYSTEMS&descSize=15&descAlignY=64&descColor=ffd7b0" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1100&color=FF6B00&center=true&vCenter=true&width=760&lines=BUILDING+AI-FIRST+SOFTWARE;LLMs+%E2%80%A2+AGENTS+%E2%80%A2+AUTOMATION+%E2%80%A2+INFRASTRUCTURE;TURNING+IDEAS+INTO+WORKING+SYSTEMS;ENGINEERED+IN+INDIA+%E2%80%A2+SHIPPED+EVERYWHERE"/>
 
@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Laava%20Studios-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laavastudios)
 [![AI Engineering](https://img.shields.io/badge/AI-Engineering-ff6b00?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/laavastudios)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Driven-991b1b?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/laavastudios?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Driven-991b1b?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/laavastudios)
 [![Made in India](https://img.shields.io/badge/Made%20in-India-161616?style=for-the-badge&logo=github&logoColor=ff6b00)](https://github.com/laavastudios)
 
 </div>
@@ -25,6 +25,10 @@
 
 > Building intelligent software, developer tools, clients and automation systems with an obsession for clean architecture and execution.
 
+<br>
+
+`AI` `LLMs` `AGENTS` `AUTOMATION` `WEB` `MOBILE` `OPEN SOURCE` `SYSTEMS`
+
 </div>
 
 ```ts
@@ -32,8 +36,7 @@ const laava = {
   name: "Laava Studios",
   role: "AI Engineer & Software Builder",
   base: "India",
-
-  building: [
+  focus: [
     "AI systems",
     "LLM applications",
     "AI agents",
@@ -41,51 +44,29 @@ const laava = {
     "automation",
     "web & mobile products",
   ],
-
   mindset: "Understand the system. Build the system. Ship the system.",
 };
 ```
-
-<div align="center">
-
-`AI` `LLMs` `AGENTS` `AUTOMATION` `WEB` `MOBILE` `OPEN SOURCE` `INFRASTRUCTURE`
-
-</div>
 
 ---
 
 ## `02 // THE LAAVA SYSTEM`
 
-```text
-                         ┌───────────────────────┐
-                         │     LAAVA STUDIOS     │
-                         │   AI + SOFTWARE LAB   │
-                         └───────────┬───────────┘
-                                     │
-              ┌──────────────────────┼──────────────────────┐
-              │                      │                      │
-              ▼                      ▼                      ▼
-       ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
-       │ AI ENGINE   │       │ PRODUCT     │       │ SYSTEMS     │
-       │             │       │ ENGINEERING │       │ ENGINEERING │
-       │ LLMs        │       │             │       │             │
-       │ Agents      │       │ Web         │       │ APIs         │
-       │ Automation  │       │ Mobile      │       │ Infra        │
-       │ MCP         │       │ UX          │       │ Deployment   │
-       └──────┬──────┘       └──────┬──────┘       └──────┬──────┘
-              │                     │                     │
-              └─────────────────────┼─────────────────────┘
-                                    ▼
-                         ┌─────────────────────┐
-                         │   SHIPPED SOFTWARE  │
-                         └─────────────────────┘
-```
+<div align="center">
 
-The goal is simple: **take an idea from concept → architecture → implementation → deployment.**
+<img src="https://raw.githubusercontent.com/laavastudios/laavastudios/main/assets/laava-system.svg" width="100%" alt="Laava Studios system architecture"/>
+
+</div>
+
+<div align="center">
+
+**Three layers. One objective: turn intelligence into software that ships.**
+
+</div>
 
 ---
 
-## `03 // ACTIVE BUILD LAB`
+## `03 // BUILD LAB`
 
 <table>
 <tr>
@@ -95,26 +76,20 @@ The goal is simple: **take an idea from concept → architecture → implementat
 
 A focused Android client inside the Laava ecosystem.
 
-**Focus**
+`Android` · `Kotlin` · `UI/UX` · `Networking`
 
-`Android` · `Kotlin` · `UI/UX` · `Networking` · `Release Engineering`
-
-**Status:** actively evolving
-
-[→ Repository](https://github.com/laavastudios/Laava-Client-Releases)
+[→ Explore](https://github.com/laavastudios/Laava-Client-Releases)
 
 </td>
 <td width="50%" valign="top">
 
 ### `02` — Cinny
 
-A modern Matrix client codebase with a strong focus on communication UX and production web tooling.
-
-**Focus**
+A modern Matrix client codebase focused on communication UX and production web tooling.
 
 `React` · `TypeScript` · `Vite` · `Matrix` · `PWA`
 
-[→ Repository](https://github.com/laavastudios/cinny)
+[→ Explore](https://github.com/laavastudios/cinny)
 
 </td>
 </tr>
@@ -125,22 +100,18 @@ A modern Matrix client codebase with a strong focus on communication UX and prod
 
 Offline-oriented launcher work with automated mobile build workflows.
 
-**Focus**
-
 `Android` · `iOS` · `Build Systems` · `GitHub Actions`
 
-[→ Repository](https://github.com/laavastudios/Amethyst-Offline)
+[→ Explore](https://github.com/laavastudios/Amethyst-Offline)
 
 </td>
 <td width="50%" valign="top">
 
 ### `04` — Laava Ecosystem
 
-A growing software ecosystem spanning clients, infrastructure, experiments, automation and AI tooling.
+A growing software identity spanning clients, infrastructure, experiments, automation and AI tooling.
 
-**Focus**
-
-`AI` · `Agents` · `Automation` · `Systems` · `Product Engineering`
+`AI` · `Agents` · `Automation` · `Systems`
 
 </td>
 </tr>
@@ -159,14 +130,14 @@ A growing software ecosystem spanning clients, infrastructure, experiments, auto
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b0b0b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0b0b0b?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 
-### AI / Intelligent Systems
+### Intelligent Systems
 
 ![LLM](https://img.shields.io/badge/LLM%20Engineering-160806?style=for-the-badge&logo=openai&logoColor=ff6b00)
 ![Agents](https://img.shields.io/badge/AI%20Agents-160806?style=for-the-badge&logo=robotframework&logoColor=ff8a3d)
 ![Automation](https://img.shields.io/badge/Automation-160806?style=for-the-badge&logo=zapier&logoColor=ff6b00)
 ![MCP](https://img.shields.io/badge/MCP-160806?style=for-the-badge&logo=anthropic&logoColor=ff9a5c)
 
-### Application Engineering
+### Application
 
 ![React](https://img.shields.io/badge/React-0b0b0b?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0b0b0b?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
@@ -192,7 +163,7 @@ A growing software ecosystem spanning clients, infrastructure, experiments, auto
 | **01** | Build the real thing, not just the demo. |
 | **02** | Prefer systems that are understandable and maintainable. |
 | **03** | Automate repetitive work aggressively. |
-| **04** | Treat UX as part of engineering, not decoration. |
+| **04** | Treat UX as part of engineering. |
 | **05** | Keep ownership of the stack whenever practical. |
 | **06** | Ship, observe, improve, repeat. |
 
@@ -200,37 +171,13 @@ A growing software ecosystem spanning clients, infrastructure, experiments, auto
 
 ---
 
-## `06 // BUILD PIPELINE`
+## `06 // THE BUILD LOOP`
 
-```text
-┌────────┐     ┌────────────┐     ┌────────────┐
-│  IDEA  │ ──▶ │ ARCHITECT  │ ──▶ │  PROTOTYPE │
-└────────┘     └────────────┘     └─────┬──────┘
-                                        │
-                                        ▼
-                               ┌────────────────┐
-                               │    ENGINEER    │
-                               └───────┬────────┘
-                                       │
-                         ┌─────────────┴─────────────┐
-                         ▼                           ▼
-                  ┌────────────┐              ┌────────────┐
-                  │   TEST     │              │   BREAK    │
-                  └─────┬──────┘              └─────┬──────┘
-                        └──────────────┬─────────────┘
-                                       ▼
-                                ┌────────────┐
-                                │   FIX      │
-                                └─────┬──────┘
-                                      ▼
-                                ┌────────────┐
-                                │    SHIP    │
-                                └─────┬──────┘
-                                      ▼
-                                ┌────────────┐
-                                │  ITERATE   │
-                                └────────────┘
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/laavastudios/laavastudios/main/assets/laava-build.svg" width="100%" alt="Laava build loop"/>
+
+</div>
 
 ---
 
@@ -240,7 +187,7 @@ A growing software ecosystem spanning clients, infrastructure, experiments, auto
 
 <img src="https://github-readme-stats.vercel.app/api?username=laavastudios&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff6b00&icon_color=ff6b00&text_color=e5e7eb&rank_icon=github" height="180"/>
 
-<br/>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=laavastudios&theme=dark&background=0D0D0D&hide_border=true&ring=FF6B00&fire=FF3D00&currStreakLabel=FF6B00&sideLabels=E5E7EB&dates=737373" width="72%"/>
 
@@ -260,32 +207,21 @@ A growing software ecosystem spanning clients, infrastructure, experiments, auto
 
 ## `09 // TERMINAL`
 
-```bash
-$ whoami
-laavastudios
+<div align="center">
 
-$ cat /laava/identity
-AI Engineer + Software Builder
+<img src="https://raw.githubusercontent.com/laavastudios/laavastudios/main/assets/laava-terminal.svg" width="100%" alt="Laava terminal"/>
 
-$ cat /laava/focus
-AI / LLMs / Agents / Automation / Systems
-
-$ cat /laava/philosophy
-build → break → understand → improve → ship
-
-$ systemctl status laava
-● ACTIVE — building
-```
+</div>
 
 ---
 
-## `10 // SIGNAL`
+## `10 // LAAVA`
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:160806,50:7f1d1d,100:ff6b00&height=90&section=header&text=BUILD%20SOMETHING%20THAT%20MATTERS&fontSize=20&fontColor=ffffff&fontAlignY=55" width="80%"/>
 
-<br/>
+<br><br>
 
 **Made in India · Built by Laava Studios**
 
