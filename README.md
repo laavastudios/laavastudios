@@ -56,13 +56,19 @@ const laava = {
 ## `04 // FEATURED BUILD / 01`
 
 <div align="center">
-<img src="./assets/laawa-preview.svg" width="100%" alt="LaaWa featured build"/>
+<img src="./assets/laawa-feature.svg" width="100%" alt="LaaWa WhatsApp automation platform"/>
 
 ### [LaaWa](https://github.com/laavastudios/LaaWa)
 
-**AI business command center built around WhatsApp conversations, lead capture, appointments, automations and AI-assisted operations.**
+**AI business command center for WhatsApp-based operations.**
+
+Handles customer conversations, lead capture, appointment booking, automated replies, scheduled messages, follow-ups, webhooks and AI-assisted workflows from one dashboard.
 
 `NEXT.JS` · `TYPESCRIPT` · `POSTGRESQL` · `GEMINI` · `WHATSAPP` · `AUTOMATION`
+
+<br>
+
+[**→ Explore LaaWa**](https://github.com/laavastudios/LaaWa)
 
 </div>
 
@@ -71,12 +77,19 @@ const laava = {
 ## `05 // BUILT / 02`
 
 <div align="center">
+<img src="./assets/laava-client-feature.svg" width="100%" alt="Laava Client Android Minecraft launcher"/>
 
 ### [Laava Client](https://github.com/laavastudios/Laava-Client-Releases)
 
-Android client engineering for the Laava ecosystem.
+**A modern Android Minecraft Java Edition launcher focused on performance, simplicity and a clean custom experience.**
 
-`KOTLIN` · `ANDROID` · `UI/UX` · `NETWORKING`
+Custom Laava branding, lightweight launcher flow, Android builds and a streamlined interface built around the Minecraft launcher stack.
+
+`ANDROID` · `KOTLIN` · `MINECRAFT JAVA` · `PERFORMANCE` · `UI/UX`
+
+<br>
+
+[**→ View Releases**](https://github.com/laavastudios/Laava-Client-Releases)
 
 </div>
 
@@ -117,7 +130,7 @@ Android client engineering for the Laava ecosystem.
 
 <div align="center">
 
-`01` **Understand the problem**  →  `02` **Design the system**  →  `03` **Build the product**  →  `04` **Break it**  →  `05` **Ship it**  →  `06` **Improve it**
+`01` **Understand**  →  `02` **Design**  →  `03` **Build**  →  `04` **Break**  →  `05` **Ship**  →  `06` **Improve**
 
 </div>
 
