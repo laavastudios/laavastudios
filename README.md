@@ -54,11 +54,9 @@ const laava = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/laavastudios/laavastudios/main/assets/laava-system.svg" width="100%" alt="Laava Studios system architecture"/>
+<img src="./assets/laava-system.svg" width="100%" alt="Laava Studios system architecture"/>
 
-</div>
-
-<div align="center">
+<br>
 
 **Three layers. One objective: turn intelligence into software that ships.**
 
@@ -66,60 +64,52 @@ const laava = {
 
 ---
 
-## `03 // BUILD LAB`
+## `03 // CURRENT FOCUS`
+
+<div align="center">
+
+<img src="./assets/laava-focus.svg" width="100%" alt="Laava Studios current engineering focus"/>
+
+</div>
+
+---
+
+## `04 // BUILT IN PUBLIC`
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01` — Laava Client
+### Laava Client
 
 A focused Android client inside the Laava ecosystem.
 
 `Android` · `Kotlin` · `UI/UX` · `Networking`
 
-[→ Explore](https://github.com/laavastudios/Laava-Client-Releases)
+[→ Repository](https://github.com/laavastudios/Laava-Client-Releases)
 
 </td>
 <td width="50%" valign="top">
 
-### `02` — Cinny
-
-A modern Matrix client codebase focused on communication UX and production web tooling.
-
-`React` · `TypeScript` · `Vite` · `Matrix` · `PWA`
-
-[→ Explore](https://github.com/laavastudios/cinny)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `03` — Amethyst Offline
+### Amethyst Offline
 
 Offline-oriented launcher work with automated mobile build workflows.
 
 `Android` · `iOS` · `Build Systems` · `GitHub Actions`
 
-[→ Explore](https://github.com/laavastudios/Amethyst-Offline)
-
-</td>
-<td width="50%" valign="top">
-
-### `04` — Laava Ecosystem
-
-A growing software identity spanning clients, infrastructure, experiments, automation and AI tooling.
-
-`AI` · `Agents` · `Automation` · `Systems`
+[→ Repository](https://github.com/laavastudios/Amethyst-Offline)
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## `04 // ENGINEERING STACK`
+## `05 // ENGINEERING STACK`
 
 <div align="center">
 
@@ -154,7 +144,17 @@ A growing software identity spanning clients, infrastructure, experiments, autom
 
 ---
 
-## `05 // ENGINEERING PHILOSOPHY`
+## `06 // THE BUILD LOOP`
+
+<div align="center">
+
+<img src="./assets/laava-build.svg" width="100%" alt="Laava build loop"/>
+
+</div>
+
+---
+
+## `07 // ENGINEERING PHILOSOPHY`
 
 <div align="center">
 
@@ -171,35 +171,15 @@ A growing software identity spanning clients, infrastructure, experiments, autom
 
 ---
 
-## `06 // THE BUILD LOOP`
+## `08 // LIVE GITHUB SIGNAL`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/laavastudios/laavastudios/main/assets/laava-build.svg" width="100%" alt="Laava build loop"/>
+<img src="https://github-readme-stats.vercel.app/api?username=laavastudios&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff6b00&icon_color=ff6b00&text_color=e5e7eb&rank_icon=github" height="180" alt="Live GitHub statistics"/>
 
-</div>
+<br><br>
 
----
-
-## `07 // GITHUB SIGNAL`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=laavastudios&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff6b00&icon_color=ff6b00&text_color=e5e7eb&rank_icon=github" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=laavastudios&theme=dark&background=0D0D0D&hide_border=true&ring=FF6B00&fire=FF3D00&currStreakLabel=FF6B00&sideLabels=E5E7EB&dates=737373" width="72%"/>
-
-</div>
-
----
-
-## `08 // CONTRIBUTION FLOW`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laavastudios&bg_color=0d0d0d&color=ff8a3d&line=ff6b00&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laavastudios&bg_color=0d0d0d&color=ff8a3d&line=ff6b00&point=ffffff&area=true&hide_border=true" width="100%" alt="Live GitHub contribution activity"/>
 
 </div>
 
@@ -209,7 +189,7 @@ A growing software identity spanning clients, infrastructure, experiments, autom
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/laavastudios/laavastudios/main/assets/laava-terminal.svg" width="100%" alt="Laava terminal"/>
+<img src="./assets/laava-terminal.svg" width="100%" alt="Laava terminal"/>
 
 </div>
 
