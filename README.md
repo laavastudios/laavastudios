@@ -74,7 +74,23 @@ const laava = {
 
 ---
 
-## `04 // BUILT IN PUBLIC`
+## `04 // FEATURED BUILD`
+
+<div align="center">
+
+<img src="./assets/laawa-preview.svg" width="100%" alt="LaaWa product showcase"/>
+
+### LaaWa
+
+**A modern messaging experience engineered as a full product system.**
+
+`REAL-TIME` · `MESSAGING` · `PRODUCT ENGINEERING` · `AI`
+
+</div>
+
+---
+
+## `05 // BUILT & SHIPPED`
 
 <div align="center">
 
@@ -93,13 +109,11 @@ A focused Android client inside the Laava ecosystem.
 </td>
 <td width="50%" valign="top">
 
-### Amethyst Offline
+### Laava Ecosystem
 
-Offline-oriented launcher work with automated mobile build workflows.
+Clients, infrastructure, experiments, automation and AI tooling built around one engineering direction.
 
-`Android` · `iOS` · `Build Systems` · `GitHub Actions`
-
-[→ Repository](https://github.com/laavastudios/Amethyst-Offline)
+`AI` · `Agents` · `Automation` · `Systems`
 
 </td>
 </tr>
@@ -109,7 +123,7 @@ Offline-oriented launcher work with automated mobile build workflows.
 
 ---
 
-## `05 // ENGINEERING STACK`
+## `06 // ENGINEERING STACK`
 
 <div align="center">
 
@@ -144,7 +158,7 @@ Offline-oriented launcher work with automated mobile build workflows.
 
 ---
 
-## `06 // THE BUILD LOOP`
+## `07 // THE BUILD LOOP`
 
 <div align="center">
 
@@ -154,7 +168,7 @@ Offline-oriented launcher work with automated mobile build workflows.
 
 ---
 
-## `07 // ENGINEERING PHILOSOPHY`
+## `08 // ENGINEERING PHILOSOPHY`
 
 <div align="center">
 
@@ -171,7 +185,7 @@ Offline-oriented launcher work with automated mobile build workflows.
 
 ---
 
-## `08 // LIVE GITHUB SIGNAL`
+## `09 // LIVE GITHUB SIGNAL`
 
 <div align="center">
 
@@ -185,7 +199,7 @@ Offline-oriented launcher work with automated mobile build workflows.
 
 ---
 
-## `09 // TERMINAL`
+## `10 // TERMINAL`
 
 <div align="center">
 
@@ -195,7 +209,7 @@ Offline-oriented launcher work with automated mobile build workflows.
 
 ---
 
-## `10 // LAAVA`
+## `11 // LAAVA`
 
 <div align="center">
 
